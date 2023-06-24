@@ -33,6 +33,7 @@ def showImage(input, title):
 
     plt.imshow(input)
     plt.title(title)
+    plt.show()
 
 
 def transformConfig():
